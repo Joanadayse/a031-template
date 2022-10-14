@@ -3,4 +3,17 @@
   text-align: center;
 }
 
+#Header{
+  background-color: blueviolet;
+}
+
+.Footer{
+  background-color: palevioletred;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+}
+
 
